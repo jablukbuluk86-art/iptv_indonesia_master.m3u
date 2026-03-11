@@ -1,0 +1,41 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/asia.xml"
+
+# ===== INDONESIA NASIONAL =====
+
+#EXTINF:-1 group-title="NASIONAL",Indonesia TV Channels
+https://iptv-org.github.io/iptv/countries/id.m3u
+
+# ===== SPORTS =====
+
+#EXTINF:-1 group-title="SPORTS",Sports Channels
+https://iptv-org.github.io/iptv/categories/sports.m3u
+
+# ===== MOVIES =====
+
+#EXTINF:-1 group-title="MOVIES",Movie Channels
+https://iptv-org.github.io/iptv/categories/movies.m3u
+
+# ===== NEWS =====
+
+#EXTINF:-1 group-title="NEWS",News Channels
+https://iptv-org.github.io/iptv/categories/news.m3u
+
+# ===== KIDS =====
+
+#EXTINF:-1 group-title="KIDS",Kids Channels
+https://iptv-org.github.io/iptv/categories/kids.m3u
+
+# ===== MUSIC =====
+
+#EXTINF:-1 group-title="MUSIC",Music Channels
+https://iptv-org.github.io/iptv/categories/music.m3u
+
+# ===== DOCUMENTARY =====
+
+#EXTINF:-1 group-title="DOCUMENTARY",Documentary Channels
+https://iptv-org.github.io/iptv/categories/documentary.m3u
+
+# ===== INTERNATIONAL =====
+
+#EXTINF:-1 group-title="INTERNATIONAL",International Channels
+https://iptv-org.github.io/iptv/index.m3u
